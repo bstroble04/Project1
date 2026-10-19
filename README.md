@@ -1,4 +1,4 @@
-# Project1
+FIN 43900 Project 1 — ADM
 Project Overview
 For Project 1, I analyzed Archer-Daniels-Midland (ADM) to determine whether an investment fund should initiate a position, place the company on watch, or decide not to invest.
 I used Python and AI-assisted tools to develop a five-year financial model, calculate a discounted cash flow valuation, compare ADM with similar companies, and test how changes in assumptions affect the results.
